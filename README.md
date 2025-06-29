@@ -2,6 +2,9 @@
 
 This repository contains the full pipeline for building, evaluating, and deploying a heating  & cooling load prediction model using EDA, linear regression, random forest, and SHAP explainability. Dataset is from the UCI Energy Efficiency dataset and contains eight architectural parameters.
 
+Dataset: [Energy Efficiency Data Set](https://archive.ics.uci.edu/ml/datasets/Energy+efficiency)
+
+
 | Variable             | Description                      | Type                  |
 | -------------------- | -------------------------------- | --------------------- |
 | Relative Compactness | Building surface-to-volume ratio | Numerical             |
